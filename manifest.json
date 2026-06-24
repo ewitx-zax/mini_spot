@@ -2,7 +2,7 @@
   "name": "MiniSpot",
   "short_name": "MiniSpot",
   "description": "Mini Spotify - Tu música favorita",
-  "start_url": "/",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
